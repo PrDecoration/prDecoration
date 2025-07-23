@@ -1,4 +1,4 @@
-FROM tomcat:9.0-jre11-temurin-jammy
+FROM tomcat:10.1.41-jre11-temurin-noble
 
 COPY . .
 
