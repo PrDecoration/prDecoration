@@ -1,4 +1,4 @@
-FROM tomcat:10.1.41-jre11-temurin-noble
+FROM tomcat:10.1.42-jre11-temurin-noble
 
 COPY . .
 
